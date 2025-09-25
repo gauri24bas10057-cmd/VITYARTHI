@@ -179,7 +179,7 @@ Create new `.map` files in the `maps/` directory following the format above.
 
 ## License
 
-This project is for educational purposes as part of an AI course assignment.
+This project is for educational purposes as part of VITYARTHI course assignment.
 
 ## Quick Start
 
@@ -235,3 +235,4 @@ Total cost: 13
 Time elapsed: 8
 Goal reached: True
 ```
+
